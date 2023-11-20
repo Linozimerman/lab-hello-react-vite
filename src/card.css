@@ -1,0 +1,10 @@
+.containerContainer{
+    display: flex;
+    height: 50px;
+    
+}
+
+.cardContainer{
+    display: flex;
+    flex-direction: column;
+}
